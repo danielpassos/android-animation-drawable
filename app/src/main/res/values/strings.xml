@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-animation-Drawable</string>
+    <string name="touch_start_animation">Touch the ball to start the animation</string>
+
+</resources>
